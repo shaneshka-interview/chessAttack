@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3b16454-9c24-4a80-909f-e3e1ab69d67e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AD61CA47-F8B7-4CC6-93A0-BA44CC73B5C7/cc/3a9d5376/ArgumentException.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/084FA840-F011-4B34-8224-22EBF104D6FB/5/Point.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2B362E6A-D5E2-4739-94C0-FDEB6DAFC56C/f8/5887f1a0/FactAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4EDFAFBA-FB99-43F1-9D16-5CCA250B8AC8/9/Size.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AttackSolver/DurnevAttackCounter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B8B10B82-47CB-413E-AB51-75C26A5956A7/fe/97d6585b/ITestOutputHelper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AttackSolverTest/DurnevTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/084FA840-F011-4B34-8224-22EBF104D6FB/9/Size.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/FFDDD48B-2A18-4B77-8F9C-440567A7CAC1/A/HashSet.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AttackSolver/AttackCounter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Interface/ChessmanType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AttackSolverTest/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Interface/IAttackCounter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/084FA840-F011-4B34-8224-22EBF104D6FB/3/HashHelpers.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AttackSolverTest/Tests.cs" />
+        <option value="$PROJECT_DIR$/AttackSolverTest/DurnevTests.cs" />
+        <option value="$PROJECT_DIR$/DurnevAttackSolverTest/DurnevTests.cs" />
+        <option value="$PROJECT_DIR$/AttackSolver/AttackCounter_Durnev.cs" />
+        <option value="$PROJECT_DIR$/AttackSolver/AttackCounter.cs" />
+        <option value="$PROJECT_DIR$/AttackSolver/AttackCounterDurnev.cs" />
+        <option value="$PROJECT_DIR$/DurnevAttackSolverTest/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/AttackSolver/DurnevAttackCounter.cs" />
+        <option value="$PROJECT_DIR$/AttackSolverTest/DurnevTest.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hosI956NKDdp8apQDU2teyTyzp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager" selected=".NET Project.AttackSolverTest">
+    <configuration name="AttackSolverTest" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/AttackSolverTest/AttackSolverTest.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3b16454-9c24-4a80-909f-e3e1ab69d67e" name="Default Changelist" comment="" />
+      <created>1600688697077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600688697077</updated>
+      <workItem from="1600688699171" duration="20524000" />
+      <workItem from="1600748807954" duration="12371000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="176" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600706932420">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="176" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1600706932420" />
+    <state x="401" y="158" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600745854872">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="401" y="158" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.860@0.0.1440.860" timestamp="1600745854872" />
+    <state x="313" y="162" key="Rider.ProjectTemplateDialog.Size" timestamp="1600746182081">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="313" y="162" key="Rider.ProjectTemplateDialog.Size/0.0.1440.860@0.0.1440.860" timestamp="1600746182081" />
+    <state x="586" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1600763825472">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="586" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1600763825472" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/DurnevAttackSolverTest/DurnevTests.cs</url>
+          <line>20</line>
+          <properties documentPath="$PROJECT_DIR$/AttackSolverTest/DurnevTests.cs" initialLine="20" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AttackSolverTest/UnitTest1.cs</url>
+          <line>21</line>
+          <properties documentPath="$PROJECT_DIR$/AttackSolverTest/UnitTest1.cs" initialLine="21">
+            <startOffsets>
+              <option value="417" />
+            </startOffsets>
+            <endOffsets>
+              <option value="418" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

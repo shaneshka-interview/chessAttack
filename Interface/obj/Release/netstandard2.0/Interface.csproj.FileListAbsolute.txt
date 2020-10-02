@@ -1,0 +1,7 @@
+C:\ws\tests\attackcounter-testtask\results\Check\Interface\bin\Release\netstandard2.0\Interface.deps.json
+C:\ws\tests\attackcounter-testtask\results\Check\Interface\bin\Release\netstandard2.0\Interface.dll
+C:\ws\tests\attackcounter-testtask\results\Check\Interface\bin\Release\netstandard2.0\Interface.pdb
+C:\ws\tests\attackcounter-testtask\results\Check\Interface\obj\Release\netstandard2.0\Interface.AssemblyInfoInputs.cache
+C:\ws\tests\attackcounter-testtask\results\Check\Interface\obj\Release\netstandard2.0\Interface.AssemblyInfo.cs
+C:\ws\tests\attackcounter-testtask\results\Check\Interface\obj\Release\netstandard2.0\Interface.dll
+C:\ws\tests\attackcounter-testtask\results\Check\Interface\obj\Release\netstandard2.0\Interface.pdb
